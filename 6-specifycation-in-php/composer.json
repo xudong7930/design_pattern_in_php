@@ -1,0 +1,16 @@
+{
+    "name": "xudong7930/6-specifycation-in-php",
+    "authors": [
+        {
+            "name": "xudong7930",
+            "email": "xudong7930@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}

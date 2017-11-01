@@ -1,0 +1,15 @@
+{
+    "name": "xudong7930/2-adapter",
+    "authors": [
+        {
+            "name": "xudong7930",
+            "email": "xudong7930@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src"
+        }
+    }
+}
